@@ -1,0 +1,2 @@
+# EquipmentProductionFailure
+每天生成事业部机器设备报表

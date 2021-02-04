@@ -1,0 +1,6 @@
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Release\EquipmentProductionFailure.exe.config
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Release\EquipmentProductionFailure.exe
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Release\EquipmentProductionFailure.pdb
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Release\EquipmentProductionFailure.csproj.CoreCompileInputs.cache
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Release\EquipmentProductionFailure.exe
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Release\EquipmentProductionFailure.pdb

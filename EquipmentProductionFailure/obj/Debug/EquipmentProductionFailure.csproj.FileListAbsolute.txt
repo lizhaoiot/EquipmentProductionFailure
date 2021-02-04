@@ -1,0 +1,6 @@
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Debug\EquipmentProductionFailure.exe.config
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Debug\EquipmentProductionFailure.exe
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\bin\Debug\EquipmentProductionFailure.pdb
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Debug\EquipmentProductionFailure.exe
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Debug\EquipmentProductionFailure.pdb
+E:\Projects\EquipmentProductionFailure\EquipmentProductionFailure\obj\Debug\EquipmentProductionFailure.csprojResolveAssemblyReference.cache
